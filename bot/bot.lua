@@ -83,7 +83,7 @@ function create_config( )
 	"write",
 	"ping"	
 	},
-    sudo_users = {267785153},
+    sudo_users = {541632594},
     admins = {},
     disabled_channels = {},
     moderation = {data = './data/moderation.json'},
@@ -93,7 +93,7 @@ function create_config( )
 》https://github.com/TitanTeams/Titanbot
 
 》Admins :
-》@mohammadrezajiji 《
+》@shahramam_z 《
 		
 》channel :
 》@Titanteams
